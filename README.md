@@ -1,4 +1,4 @@
-# Minimalist Snow Water ❄️
+# Minimalist Snow Water
 
 A minimal Chrome theme in a quiet, pale blue palette, by Miguel Euraque.
 
